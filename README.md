@@ -71,6 +71,8 @@ sls deploy
 Replace the express instance as:
 
 ```typescript
+// server.ts
+
 // Express server
 export const app = express.default();
 ```
